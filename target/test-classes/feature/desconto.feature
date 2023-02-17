@@ -1,6 +1,6 @@
 # language pt
 
-  Feature: Receber desconto da qazando
+Feature: Receber desconto da qazando
     Eu como usuario da qazando
     quero receber um cupom de desconto
     para comprar um curso com um valor reduzido
